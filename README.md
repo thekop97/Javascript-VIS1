@@ -1,5 +1,6 @@
 # Javascript-VIS1
 Javascript and github - Pokemon game
+https://github.com/thekop97/Javascript-VIS1.git
 #Son Kim Ta
 ## Installation
 There is no installation process for this repo.Simply pulldown and start working!
